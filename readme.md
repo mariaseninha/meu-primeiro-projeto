@@ -31,10 +31,10 @@ relacionadas a alunos, disciplinas, departamento, etc. nas configurações;
 https://www.figma.com/file/nCeRxZy5cMWnc1175pPA8C/Trip-Taker?node-id=0-1&t=Bh9V8zU6nuqEGJii-0
 
 ## Diagramas dos Casos de Uso
-    ![Diagrama de Casos de Uso](/assets/img01.png)
+    ![Grupo 03_Diagrama Casos de Uso drawio](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/ed0db6ac-ed91-4e22-8671-b189d34fdeff)
 
 ## Diagramas de Classes
-    ![Diagrama de Classes](/assets/img02.png)
+![Grupo 03_Diagrama de Classes drawio](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/373fdec9-4c09-4569-b0ee-2ba193d6c57c)
 
 ## Telas no Figma
 
