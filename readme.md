@@ -10,7 +10,7 @@ escolar de um centro universitário hipotético, intitulado *PI Tech*, abrangend
 
 1. *Bruno Onofri Garcia*
 2. *Caique dos Santos Filgueiras*
-3. *José Teodoro de Araujo*
+3. *José Teodoro de Araújo*
 4. *Maria da Piedade Sena de Oliveira*
 5. *Priscila Ramonna da Silva Pires*
 
