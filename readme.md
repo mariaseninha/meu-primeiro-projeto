@@ -1,6 +1,6 @@
 # meu-primeiro-projeto
 
-Aqui segue a documentação do projeto do Grupo 03 para o PI.
+Aqui segue a documentação do projeto do **Grupo 03 para o Projeto Integrador**.
 
 Este repositório, elaborado pelo Grupo 03, faz parte da disciplina **Projeto Integrador III do Centro Universitário Senac: Desenvolvimento de 
 Sistemas Dinâmicos Baseados na Web**. O objetivo deste trabalho é apresentar interfaces para um sistema de gerenciamento de dados de gestão 
@@ -37,6 +37,17 @@ https://www.figma.com/file/nCeRxZy5cMWnc1175pPA8C/Trip-Taker?node-id=0-1&t=Bh9V8
 ![Grupo 03_Diagrama de Classes drawio](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/373fdec9-4c09-4569-b0ee-2ba193d6c57c)
 
 ## Telas no Figma
+![pg01_figma](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/c7c58acb-8b20-4874-a8b7-23c544fe773f)
+
+![pg02_figma](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/3437a124-ce2b-4f5b-96f3-329375526c12)
+
+![pg03_figma](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/0efafa40-6f3f-4a78-88c9-31cfa716b832)
+
+![pg04_figma](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/f4b79a3c-cb47-4423-9d58-49d541691abb)
+
+![pg05_figma](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/9552a50d-0bef-475c-bd5f-46894b3a6d59)
+
+
 
 
 
