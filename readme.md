@@ -1,6 +1,6 @@
 # meu-primeiro-projeto
 
-Aqui segue a documentação da 2ª entrega do projeto do **Grupo 03 para o Projeto Integrador**.
+Aqui segue a documentação da **2ª entrega do Projeto Integrador do Grupo 03**.
 
 Este repositório, elaborado pelo Grupo 03, faz parte da disciplina **Projeto Integrador III do Centro Universitário Senac: Desenvolvimento de 
 Sistemas Dinâmicos Baseados na Web**. O objetivo deste trabalho é apresentar interfaces para um sistema de gerenciamento de dados de gestão 
