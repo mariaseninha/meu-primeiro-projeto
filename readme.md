@@ -28,7 +28,7 @@ relacionadas a alunos, disciplinas, departamento, etc. nas configurações;
 - **Página Cadastro de Fornecedores (Admin)** - Possibilita que o administrador do sistema realize o cadastro de fornecedores, além de outras tarefas.
 
 ## Link das telas produzidas no *Figma*
-https://www.figma.com/file/nCeRxZy5cMWnc1175pPA8C/Trip-Taker?node-id=0-1&t=Bh9V8zU6nuqEGJii-0
+[](https://www.figma.com/design/NXK3QgytyyINyuCEHyLxcq/Figma-basics?node-id=0-1&t=mDQixmcw9KIZSqMX-0)
 
 ## Diagramas dos Casos de Uso
 ![Grupo 03_Diagrama Casos de Uso drawio](https://github.com/mariaseninha/meu-primeiro-projeto/assets/170252635/ed0db6ac-ed91-4e22-8671-b189d34fdeff)
